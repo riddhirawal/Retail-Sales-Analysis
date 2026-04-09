@@ -31,6 +31,9 @@ Analyze retail sales data to identify trends, top-performing products, and facto
 - Exploratory Data Analysis (EDA)
 - Business Insights
 
+## Dashboard
+https://public.tableau.com/app/profile/riddhi.rawal/viz/RetailSalesDashboard_17757108822220/Dashboard2?publish=yes
+
 ## 🚀 Conclusion
 This analysis helps businesses optimize pricing, improve product strategy, and enhance customer targeting.
 
