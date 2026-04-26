@@ -1,41 +1,17 @@
-# Retail-Sales-Analysis
+# Retail Sales & Profitability Dashboard
 
-# Retail Sales Performance Analysis
+## 📌 Project Overview
+An end-to-end analysis of a US-based retail dataset (Superstore) to uncover geographic and categorical trends. This project transitions from raw data processing in Python to interactive visual storytelling in Tableau.
 
-## 📌 Problem Statement
-Analyze retail sales data to identify trends, top-performing products, and factors affecting profitability.
+## 🔗 Live Dashboard
+[View My Tableau Dashboard](https://public.tableau.com/app/profile/riddhi.rawal/viz/RetailSalesDashboard_17757108822220/Dashboard2?publish=yes)
 
 ## 🛠️ Tech Stack
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-
-## 📊 Key Analysis Performed
-- Sales and Profit Analysis
-- Regional Performance
-- Category-wise Profitability
-- Top Products & Customers
-- Discount Impact on Profit
-- Shipping Time Analysis
+- **Analysis:** Python (Pandas), NumPy
+- **Visualization:** Tableau Desktop
+- **Techniques:** Geospatial Mapping, Trend Analysis, Category Segmentation
 
 ## 📈 Key Insights
-- Sales show an increasing trend over time
-- Certain regions contribute significantly more to revenue
-- Technology category generates the highest profit
-- High discounts negatively impact profit
-- Some products consistently incur losses
-- A small group of customers contributes major revenue
-
-## 📂 Project Structure
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Business Insights
-
-## Dashboard
-https://public.tableau.com/app/profile/riddhi.rawal/viz/RetailSalesDashboard_17757108822220/Dashboard2?publish=yes
-
-## 🚀 Conclusion
-This analysis helps businesses optimize pricing, improve product strategy, and enhance customer targeting.
-
-## 🔗 Author
-Riddhi Rawal
+- **Regional Performance:** California and New York identified as primary profit centers; West Region leads in total revenue.
+- **Profitability Leakage:** Analyzed the "Profit vs. Discount" paradox, identifying product sub-categories where excessive discounting led to negative margins.
+- **Top Segment:** The 'Consumer' segment accounts for the largest share of sales volume.
