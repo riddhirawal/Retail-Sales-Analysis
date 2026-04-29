@@ -1,17 +1,21 @@
-# Retail Sales & Profitability Dashboard
+# Retail Performance Dashboard
 
-## 📌 Project Overview
-An end-to-end analysis of a US-based retail dataset (Superstore) to uncover geographic and categorical trends. This project transitions from raw data processing in Python to interactive visual storytelling in Tableau.
-
-## 🔗 Live Dashboard
-[View My Tableau Dashboard](https://public.tableau.com/app/profile/riddhi.rawal/viz/RetailSalesDashboard_17757108822220/Dashboard2?publish=yes)
+## 📌 Business Problem
+Retail stakeholders needed a way to visualize global sales performance and understand how discount strategies were impacting net profitability across different product categories and regions.
 
 ## 🛠️ Tech Stack
-- **Analysis:** Python (Pandas), NumPy
-- **Visualization:** Tableau Desktop
-- **Techniques:** Geospatial Mapping, Trend Analysis, Category Segmentation
+- **Analysis:** Python (Pandas)
+- **Visualization:** Tableau Public
+- **Techniques:** Geospatial Mapping, Trend Analysis, Descriptive Statistics
 
-## 📈 Key Insights
-- **Regional Performance:** California and New York identified as primary profit centers; West Region leads in total revenue.
-- **Profitability Leakage:** Analyzed the "Profit vs. Discount" paradox, identifying product sub-categories where excessive discounting led to negative margins.
-- **Top Segment:** The 'Consumer' segment accounts for the largest share of sales volume.
+## 🚀 Solution & Features
+- **Data Preprocessing:** Used Python to clean and prepare 9,000+ transaction records for visualization.
+- **Interactive Dashboard:** Created a "Single Source of Truth" featuring:
+  - **Geographic Profit Map:** Identifying top-performing states.
+  - **Category Drill-down:** Analyzing sales vs. profit for Technology, Furniture, and Office Supplies.
+  - **Discount Analysis:** Visualizing the correlation between high discounts and negative margins.
+
+## 📈 Impact
+- Identified **California and New York** as the primary profit engines.
+- Pinpointed "Profit Leakage" in the Furniture category due to over-discounting.
+- Enabled regional managers to monitor KPIs in real-time through interactive filters.
